@@ -7,3 +7,5 @@ the input parameter is name of network interface.
 designed for Qt, but if you don't use it,just replace Qt's types for yours.
 
 run as admin/root
+
+(return QString)
